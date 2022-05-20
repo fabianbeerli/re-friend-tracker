@@ -457,7 +457,7 @@ export class GuiModel {
                         "form": {
                         "form": "AddActivityForm"
                         }
-                        },
+                        }, 
                     ]
                    }
                    ,
